@@ -89,3 +89,10 @@ This workflow mirrors how **production analytics platforms evolve from batch pro
 
 
 ---
+
+### SQL & Data Warehousing
+
+Hive external tables and analytical queries were designed to reflect the cleaned soil and weather datasets described in the project report.  
+Due to group project constraints, representative schemas and queries are included to demonstrate data modeling and analytics logic aligned with the original implementation.
+
+---
